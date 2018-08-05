@@ -13,7 +13,7 @@ A project to better learn Artificial Intelligence
 - run the Game.py folder in the game directory
 
 #### OR
-- Pay me to simplify the entire project into a .exe file which you can use just by clicking (Just kidding ;) or maybe not...)
+- Pay me to simplify the entire project into a .exe file which you can use just by clicking on a single file (Just kidding ;) or maybe not...)
 
 ## Bibliography
 - Google
