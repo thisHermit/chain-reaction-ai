@@ -17,7 +17,7 @@ A project to better learn Artificial Intelligence
 
 ## Preview
 
-![Alt text](Screenshot from 2018-08-05 18-13-43.png?raw=true "Title")
+![Alt text](./Screenshot from 2018-08-05 18-13-43.png?raw=true "Title")
 
 
 ## Bibliography
