@@ -15,6 +15,11 @@ A project to better learn Artificial Intelligence
 #### OR
 - Pay me to simplify the entire project into a .exe file which you can use just by clicking on a single file (Just kidding ;) or maybe not...)
 
+## Preview
+
+![Alt text](Screenshot from 2018-08-05 18-13-43.png?raw=true "Title")
+
+
 ## Bibliography
 - Google
 - StackOverflow
